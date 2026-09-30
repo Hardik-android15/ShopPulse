@@ -290,23 +290,42 @@ ________________________________________
 
 🖥️ Dashboard
 
+ShopPulse provides an interactive analytics dashboard for exploring shopper behaviour, conversion patterns, funnel performance, engagement, and key business insights.
+
 Dashboard Overview
 
- <img width="1917" height="1048" alt="image" src="https://github.com/user-attachments/assets/36608dca-354e-4533-916a-dba9ff59ccc1" />
+The main dashboard provides an executive view of the dataset with dynamic KPIs, conversion funnel analysis, behavioural comparisons, and interactive navigation.
 
-ShopPulse provides an interactive dashboard with dynamic filters, KPI cards, analytical charts, conversion funnel analysis, and business insights.
+<img width="1917" height="1048" alt="image" src="https://github.com/user-attachments/assets/d8e328b9-46c3-439b-8d44-66695478db02" />
+
+
 Conversion Funnel
- 
-The funnel visualizes progression from initial sessions to completed purchases and highlights the largest points of user drop-off.
+
+The conversion funnel tracks the complete shopper journey from initial sessions to completed purchases and highlights the major points of user drop-off.
+
+<img width="1043" height="426" alt="image" src="https://github.com/user-attachments/assets/0e8a237e-8cad-4f38-978d-e4432d953e0a" />
+
+
 Visitor & Traffic Behaviour
- 
-This section compares visitor segments and traffic sources using conversion and engagement metrics.
+
+This section analyses conversion behaviour across visitor types and traffic sources, helping identify differences between customer segments and acquisition channels.
+
+<img width="1917" height="1042" alt="image" src="https://github.com/user-attachments/assets/58e30a1d-acc0-46f0-b840-0d3b7b4e6ca3" />
+
+
 Engagement & Dwell Time
- 
-Engagement analysis explores relationships between page-view depth, session duration, and conversion behaviour.
+
+Engagement analysis examines the relationship between page-view depth, session duration, and conversion behaviour.
+
+<img width="1917" height="1042" alt="image" src="https://github.com/user-attachments/assets/965c3b7c-e598-4540-b016-30810bde812b" />
+
+
 Key Insights
- 
-The dashboard dynamically generates business-oriented insights from the currently selected data slice.
+
+ShopPulse dynamically generates business-oriented insights from the selected dataset and active filters.
+
+<img width="1887" height="992" alt="image" src="https://github.com/user-attachments/assets/03f170fa-a4f2-4cd2-8d1a-0bc327dff139" />
+
 ________________________________________
 
 🛠️ Technology Stack
